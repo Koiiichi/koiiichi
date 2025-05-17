@@ -8,7 +8,7 @@ I’m a second-year student at the University of Waterloo with a growing focus o
 
 - Currently working on [CoCode](https://github.com/Koiiichi/CoCode), a collaborative code editor
 - Learning **C++** and expanding my understanding of systems programming
-- All of my projects can be found at: [muneebhassan.ca](https://muneebhassan.ca)
+- All of my projects can be found at: [muneebhassan.ca](https://muneebhassan.ca) (currently under development)
 - Contact: [m57hassa@uwaterloo.ca](mailto:m57hassa@uwaterloo.ca)
 - View my resume: [Google Docs](https://docs.google.com/document/d/1Caj8AI6tWxFvIm0m5e_sNug6oasL0KsbelbhUvfnWSU/edit?usp=sharing)
 
