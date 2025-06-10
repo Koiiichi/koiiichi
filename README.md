@@ -10,7 +10,7 @@ I’m a second-year student at the University of Waterloo with a growing focus o
 - Learning **C++** and expanding my understanding of systems programming
 - All of my projects can be found at: [muneebhassan.ca](https://muneebhassan.ca) (currently under development)
 - Contact: [m57hassa@uwaterloo.ca](mailto:m57hassa@uwaterloo.ca)
-- View my resume: [Google Docs](https://docs.google.com/document/d/1Caj8AI6tWxFvIm0m5e_sNug6oasL0KsbelbhUvfnWSU/edit?usp=sharing)
+- View my resume: [Google Docs](https://docs.google.com/document/d/1eUIjlAxwQq06jw0deb7qMy5PFs4Ko4eP66Y23GB_FCU/edit?usp=sharing)
 
 ---
 
