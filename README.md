@@ -6,7 +6,7 @@ I’m a second-year student at the University of Waterloo with a growing focus o
 
 ## Current Projects and Interests
 
-- Currently working on [CoCode](https://github.com/Koiiichi/CoCode), a collaborative code editor and [MLOX](https://github.com/Koiiichi/mlox)
+- Working on [CoCode](https://github.com/Koiiichi/CoCode), a collaborative code editor, and [MLOX](https://github.com/Koiiichi/mlox), a modified LOX interpreter in C
 - Learning **C++** and expanding my understanding of systems programming
 - All of my projects can be found at: [muneebhassan.ca](https://muneebhassan.ca) (currently under development)
 - Contact: [m57hassa@uwaterloo.ca](mailto:m57hassa@uwaterloo.ca)
