@@ -34,7 +34,7 @@ I’m a second-year student at the University of Waterloo with a growing focus o
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/muneeb-hassan-252110309)
+- [LinkedIn](https://linkedin.com/in/muneeb-hassan-mh)
 - [Codeforces](https://codeforces.com/profile/koiiichi)
 - [LeetCode](https://leetcode.com/koiiichi)
 
