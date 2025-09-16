@@ -12,7 +12,6 @@ My interests lie in building systems that connect data engineering with real-wor
 ## Current Projects
 - **[CoCode](https://github.com/Koiiichi/CoCode)**: A collaborative web-based code editor with real-time concurrency (React, Firebase, Monaco).  
 - **[MLOX](https://github.com/Koiiichi/mlox)**: An extended interpreter in C, inspired by LOX, with runtime enhancements and bytecode exploration.  
-- **[Portfolio](https://muneebhassan.ca)**: Personal website (currently under development).  
 
 ---
 
