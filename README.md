@@ -1,24 +1,38 @@
 # Muneeb Hassan
 
 ## About Me
-I am a second-year Computational Mathematics student at the University of Waterloo with a joint in Statistics and a minor in Computing.  
-My interests lie in building systems that connect data engineering with real-world decision-making. Current focus areas include:  
-- Scalable infrastructure and cloud applications  
-- Agentic systems and intelligent automation  
-- Data-driven product development and collaborative tooling  
+
+I’m a second-year Computational Mathematics student at the University of Waterloo (joint in Statistics, minor in Computing).
+I like building systems that turn abstract computation into practical tools — from interpreters to collaborative editors to embedded systems. My current focus areas include:
+
+* Scalable infrastructure & cloud-native applications
+* Agentic systems & intelligent automation
+* Data-driven product design & collaborative tooling
 
 ---
 
-## Current Projects
-- **[CoCode](https://github.com/Koiiichi/CoCode)**: A collaborative web-based code editor with real-time concurrency (React, Firebase, Monaco).  
-- **[MLOX](https://github.com/Koiiichi/mlox)**: An extended interpreter in C, inspired by LOX, with runtime enhancements and bytecode exploration.  
+## Projects
+
+* **[CoCode](https://github.com/Koiiichi/CoCode)** – Collaborative web-based code editor with real-time concurrency (React, Firebase, Monaco).
+* **[MLOX](https://github.com/Koiiichi/mlox)** – Extended interpreter in C, inspired by LOX, with runtime enhancements and bytecode exploration.
+* **[Project Harmonics](https://devpost.com/software/project-harmonics)** – Accessibility-focused audio visualization tool that sonifies STEM data for inclusive learning.
+* **[ChabaCrunch](https://devpost.com/software/chabacrunch)** – Data science project analyzing restaurant tipping behavior with ML models and visualization pipelines.
+* **Midnight Sun Solar Car Team** – Firmware development on MSXVI solar vehicle: FreeRTOS scheduling, modular input handling, and embedded systems testing.
+
+---
+
+## Personal Site
+
+Full portfolio and details here:
+[koiiichi.github.io/mh-site](https://koiiichi.github.io/mh-site/)
 
 ---
 
 ## Contact
-- Email: [m57hassa@uwaterloo.ca](mailto:m57hassa@uwaterloo.ca)  
-- Resume: [View Here](https://docs.google.com/document/d/1eUIjlAxwQq06jw0deb7qMy5PFs4Ko4eP66Y23GB_FCU/edit?usp=sharing)  
-- LinkedIn: [linkedin.com/in/muneeb-hassan-mh](https://linkedin.com/in/muneeb-hassan-mh)  
+
+* Email: [m57hassa@uwaterloo.ca](mailto:m57hassa@uwaterloo.ca)
+* Resume: [View Here](https://docs.google.com/document/d/1eUIjlAxwQq06jw0deb7qMy5PFs4Ko4eP66Y23GB_FCU/edit?usp=sharing)
+* LinkedIn: [linkedin.com/in/muneeb-hassan-mh](https://linkedin.com/in/muneeb-hassan-mh)
 
 ---
 
