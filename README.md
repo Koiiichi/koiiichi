@@ -15,7 +15,7 @@ I like building systems that turn abstract computation into practical tools — 
 
 * **[CoCode](https://github.com/Koiiichi/CoCode)** – Collaborative web-based code editor with real-time concurrency (React, Firebase, Monaco).
 * **[MLOX](https://github.com/Koiiichi/mlox)** – Extended interpreter in C, inspired by LOX, with runtime enhancements and bytecode exploration.
-* **[Project Harmonics](https://devpost.com/software/project-harmonics)** – Accessibility-focused audio visualization tool that sonifies STEM data for inclusive learning.
+* **[Project Harmonics](https://github.com/Koiiichi/project-harmonics)** – Accessibility-focused audio visualization tool that sonifies STEM data for inclusive learning.
 * **[ChabaCrunch](https://devpost.com/software/chabacrunch)** – Data science project analyzing restaurant tipping behavior with ML models and visualization pipelines.
 * **Midnight Sun Solar Car Team** – Firmware development on MSXVI solar vehicle: FreeRTOS scheduling, modular input handling, and embedded systems testing.
 
