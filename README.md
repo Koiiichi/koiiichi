@@ -31,7 +31,7 @@ Full portfolio and details here:
 ## Contact
 
 * Email: [m57hassa@uwaterloo.ca](mailto:m57hassa@uwaterloo.ca)
-* Resume: [View Here](https://docs.google.com/document/d/1eUIjlAxwQq06jw0deb7qMy5PFs4Ko4eP66Y23GB_FCU/edit?usp=sharing)
+* Resume: [View Here](https://drive.google.com/file/d/1fxMcAUd5DlbmSDu-TFvLofeA2c791t7U/view?usp=sharing)
 * LinkedIn: [linkedin.com/in/muneeb-hassan-mh](https://linkedin.com/in/muneeb-hassan-mh)
 
 ---
