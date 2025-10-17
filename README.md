@@ -12,9 +12,9 @@ Learn more about me [here](https://koiiichi.github.io/mh-site/).
 
 ## Contact
 
-* Email: [m57hassa@uwaterloo.ca](mailto:m57hassa@uwaterloo.ca)
-* Resume: [View Here](https://drive.google.com/file/d/1fxMcAUd5DlbmSDu-TFvLofeA2c791t7U/view?usp=sharing)
-* LinkedIn: [linkedin.com/in/muneeb-hassan-mh](https://linkedin.com/in/muneeb-hassan-mh)
+* [Email](mailto:m57hassa@uwaterloo.ca)
+* [Resume](https://drive.google.com/file/d/1fxMcAUd5DlbmSDu-TFvLofeA2c791t7U/view?usp=sharing)
+* [LinkedIn](https://linkedin.com/in/muneeb-hassan-mh)
 
 ---
 
