@@ -2,29 +2,11 @@
 
 ## About Me
 
-I’m a second-year Computational Mathematics student at the University of Waterloo (joint in Statistics, minor in Computing).
-I like building systems that turn abstract computation into practical tools — from interpreters to collaborative editors to embedded systems. My current focus areas include:
+Hey, I’m a 2nd-year CS + Stats student at the University of Waterloo. I’m mainly a generalist software engineer building across the stack.
+Lately, I’ve been exploring frontend development to make pretty UIs and whatnot, and looking into the AI agents craze to delve into it myself.
+My projects span multiple disciplines, and I plan to focus on my own niche once I find it.
 
-* Scalable infrastructure & cloud-native applications
-* Agentic systems & intelligent automation
-* Data-driven product design & collaborative tooling
-
----
-
-## Projects
-
-* **[CoCode](https://github.com/Koiiichi/CoCode)** – Collaborative web-based code editor with real-time concurrency (React, Firebase, Monaco).
-* **[MLOX](https://github.com/Koiiichi/mlox)** – Extended interpreter in C, inspired by LOX, with runtime enhancements and bytecode exploration.
-* **[Project Harmonics](https://github.com/Koiiichi/project-harmonics)** – Accessibility-focused audio visualization tool that sonifies STEM data for inclusive learning.
-* **[ChabaCrunch](https://devpost.com/software/chabacrunch)** – Data science project analyzing restaurant tipping behavior with ML models and visualization pipelines.
-* **Midnight Sun Solar Car Team** – Firmware development on MSXVI solar vehicle: FreeRTOS scheduling, modular input handling, and embedded systems testing.
-
----
-
-## Personal Site
-
-Full portfolio and details here:
-[koiiichi.github.io/mh-site](https://koiiichi.github.io/mh-site/)
+Learn more about me [here](https://koiiichi.github.io/mh-site/).
 
 ---
 
