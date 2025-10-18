@@ -6,7 +6,7 @@ Hey, I’m a 2nd-year CS + Stats student at the University of Waterloo. I’m ma
 Lately, I’ve been exploring frontend development to make pretty UIs and whatnot, and looking into the AI agents craze to delve into it myself.
 My projects span multiple disciplines, and I plan to focus on my own niche once I find it.
 
-Learn more about me [here](https://koiiichi.github.io/mh-site/).
+Learn more about me [here](https://mh-site.vercel.app/).
 
 ---
 
