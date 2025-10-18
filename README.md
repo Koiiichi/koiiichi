@@ -13,7 +13,7 @@ Learn more about me [here](https://mh-site.vercel.app/).
 ## Contact
 
 * [Email](mailto:m57hassa@uwaterloo.ca)
-* [Resume](https://drive.google.com/file/d/1fxMcAUd5DlbmSDu-TFvLofeA2c791t7U/view?usp=sharing)
+* [Resume](https://drive.google.com/file/d/11qRs9M45MgjccYx_AZUHYYct5yhNu9fj/view?usp=sharing)
 * [LinkedIn](https://linkedin.com/in/muneeb-hassan-mh)
 
 ---
