@@ -18,14 +18,14 @@ Learn more about me [here](https://www.muneeb-hassan.me).
 
 ---
 
+<!--
+
 ## GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koiiichi&theme=default&hide_border=true&include_all_commits=true&count_private=true)  
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=koiiichi&theme=default&hide_border=true)  -->
+![GitHub Streak](https://streak-stats.demolab.com?user=koiiichi&theme=default&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koiiichi&theme=default&hide_border=true&layout=compact)  
 
 ---
-
-<!--
 
 ## Skills
 
