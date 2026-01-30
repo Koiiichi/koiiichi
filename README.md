@@ -1,21 +1,18 @@
-# Muneeb Hassan
+```
+[ stack frame @ 0x5e1f ]
 
-## About Me
+self->name      = "Muneeb Hassan"
+self->school    = "University of Waterloo"
+self->program   = ["CS", "Statistics"]
+self->year      = 2
+self->state     = ACTIVE
 
-Hey, I’m a 2nd-year CS + Stats student at the University of Waterloo. I’m mainly a generalist software engineer building across the stack.
-Lately, I’ve been exploring frontend development to make pretty UIs and whatnot, and looking into the AI agents craze to delve into it myself.
-My projects span multiple disciplines, and I plan to focus on my own niche once I find it.
+self->site      = ref("https://www.muneeb-hassan.me")
+self->linkedin  = ref("https://linkedin.com/in/muneeb-hassan-mh")
+self->resume    = ref("https://drive.google.com/file/d/1nkhASqOZTSodHrvRuv5LEhtbVQqmRI7s/view")
 
-Learn more about me [here](https://www.muneeb-hassan.me).
-
----
-
-## Contact
-
-* [Email](mailto:m57hassa@uwaterloo.ca)
-* [Resume](https://drive.google.com/file/d/11qRs9M45MgjccYx_AZUHYYct5yhNu9fj/view?usp=sharing)
-* [LinkedIn](https://linkedin.com/in/muneeb-hassan-mh)
-
+// references remain valid
+```
 ---
 
 <!--
