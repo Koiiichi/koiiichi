@@ -7,9 +7,8 @@ self->program   = ["CS", "Statistics"]
 self->year      = 2
 self->state     = ACTIVE
 
-self->site      = ref("https://www.muneeb-hassan.me")
+self->site      = ref("https://www.muneeb-hassan.tech")
 self->linkedin  = ref("https://linkedin.com/in/muneeb-hassan-mh")
-self->resume    = ref("https://drive.google.com/file/d/1bBnnD0yXMCw4Qshsw_-cgANVJ6iGAQC4/view?usp=sharing")
 
 // references remain valid
 ```
